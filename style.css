@@ -213,7 +213,7 @@ body {
 }
 
 .card:hover {
-    transform: scale(1.05);
+    transform: scale(2.0);
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
     border-color: #2264d1;
     background-color: #f0f8ff;
