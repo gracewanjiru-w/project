@@ -213,8 +213,10 @@ body {
 }
 
 .card:hover {
-	transform: scale(1.05);
-	border-color: #333333;
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    border-color: #2264d1;
+    background-color: #f0f8ff;
 }
 
 .highlighted {
